@@ -249,3 +249,4 @@ class Widget(QWidget):
 
         self.connection.commit()
         self.connection.close()
+        
